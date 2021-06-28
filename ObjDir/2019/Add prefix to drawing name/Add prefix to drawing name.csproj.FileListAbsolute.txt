@@ -1,0 +1,8 @@
+C:\Users\dn\Dropbox\.dev\Projects\Add prefix to drawing name\Add prefix to drawing name\bin\Debug\Add prefix to drawing name.exe
+C:\Users\dn\Dropbox\.dev\Projects\Add prefix to drawing name\Add prefix to drawing name\bin\Debug\Add prefix to drawing name.pdb
+C:\Users\dn\Dropbox\.dev\Projects\Add prefix to drawing name\ObjDir\2019\Add prefix to drawing name\Add prefix to drawing name.csprojAssemblyReference.cache
+C:\Users\dn\Dropbox\.dev\Projects\Add prefix to drawing name\ObjDir\2019\Add prefix to drawing name\Tekla.Technology.Akit.UserScript.TeklaWinFormsMacro.resources
+C:\Users\dn\Dropbox\.dev\Projects\Add prefix to drawing name\ObjDir\2019\Add prefix to drawing name\Add prefix to drawing name.csproj.GenerateResource.cache
+C:\Users\dn\Dropbox\.dev\Projects\Add prefix to drawing name\ObjDir\2019\Add prefix to drawing name\Add prefix to drawing name.csproj.CoreCompileInputs.cache
+C:\Users\dn\Dropbox\.dev\Projects\Add prefix to drawing name\ObjDir\2019\Add prefix to drawing name\Add prefix to drawing name.exe
+C:\Users\dn\Dropbox\.dev\Projects\Add prefix to drawing name\ObjDir\2019\Add prefix to drawing name\Add prefix to drawing name.pdb
